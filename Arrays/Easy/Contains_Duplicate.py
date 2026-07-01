@@ -14,3 +14,4 @@ if __name__ == "__main__":
     sol = Solution()
     print(sol.hasDuplicate([1, 2, 3, 3]))  # Expected: True
     print(sol.hasDuplicate([1, 2, 3, 4]))  # Expected: False
+    print(sol.hasDuplicate([1, 1, 2, 3]))
